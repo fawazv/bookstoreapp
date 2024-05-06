@@ -26,7 +26,7 @@ This is a full-stack web application built with the MERN (MongoDB, Express.js, R
 3. cd backend and cd frontend. Install dependencies for both the frontent and backend:
 4. Set up your MongoDB database and configure the connection string in `backend/config.js`.
 5. Create .env file and write "MONGODB\_\_PASSWORD = YOURPASSWORDHERE".
-6. Start the backend and frontend development servers by npm run dev for both:
+6. Start the backend and frontend development servers by `npm run dev` for both:
 7. Open your web browser and navigate to `http://localhost:5173` to view the app.
 
 ## API Endpoints
